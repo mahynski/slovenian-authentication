@@ -1,18 +1,10 @@
-name: project-name
+name: test-slo
 channels:
   - conda-forge
 dependencies:
+  - python==3.11
   - ipykernel
-  - ipywidgets
-  - matplotlib
-  - numpy
-  - pandas
-  - pre-commit
-  - scipy
-  - seaborn
-  - scikit-learn
-  - tqdm
-  - watermark
+  - openpyxl
   - pip
   - pip:
-    - pacmap
+    - git+https://github.com/mahynski/pychemauth@7e9ac38
