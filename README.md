@@ -25,9 +25,6 @@ Citation
 Please cite the associated manuscript as follows:
 
 ~~~code
-@article{
-    INSERT FORMATTED BITEX
-}
 @article{Mahynski_Strojnik_Shen_Ogrinc_2025, 
     title={Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables}, 
     volume={X}, 
