@@ -4,7 +4,15 @@ authors:
   - family-names: Mahynski
     given-names: Nathan
     orcid: https://orcid.org/0000-0002-0008-8749
-title: "My Research Project"
+  - family-names: Strojnik
+    given-names: Lidija
+    orcid: https://orcid.org/0000-0003-1898-9147
+  - family-names: Shen
+    given-names: Vincent
+  - family-names: Ogrinc
+    given-names: Nives
+    orcid: https://orcid.org/0000-0002-0773-0095
+title: "slovenian-authentication"
 version: v0.0.1
 doi: 12.3456/zenodo.123456
 date-released: YYYY-MM-DD

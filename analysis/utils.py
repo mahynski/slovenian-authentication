@@ -15,7 +15,7 @@ def flag_outliers(X, lod):
         
     return Outlier
 
-def get_data(sheet_name, col_start, row_start, loc='../../data/raw/DB_UVHVVR.xlsx'):
+def get_data(sheet_name, col_start, row_start, loc='../raw/DB_UVHVVR.xlsx'):
     data = pd.read_excel(loc, sheet_name=sheet_name)
     
     raw = data.iloc[row_start:,:]
