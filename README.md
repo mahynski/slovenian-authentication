@@ -27,16 +27,14 @@ Please cite the associated manuscript as follows:
 ~~~code
 @article{Mahynski_Strojnik_Shen_Ogrinc_2025, 
     title={Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables}, 
-    volume={X}, 
-    journal={Food Chemistry}, 
+    volume={}, 
+    journal={}, 
     author={Mahynski, Nathan A. and Strojnik, Lidija and Shen, Vincent K. and Ogrinc, Nives}, 
     year={2025}, 
     pages={},
     doi={}
 } 
 ~~~
-
-[CREATE ZENODO DOI](https://zenodo.org/account/settings/github/). See the CITATION.cff file for how to cite this repository.
 
 Installation
 ---
