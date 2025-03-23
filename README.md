@@ -44,3 +44,9 @@ $ conda env create -f conda-env.yml
 $ conda activate test-slo
 $ python -m ipykernel install --user --name=test-slo
 ~~~
+
+Acknowledgements
+---
+The Slovenian Forestry and Food, Administration for Food Safety, Veterinary Sector and Plant Protection under GA no. C2337-18–000044, C2337-19–000033, and C2337-20–000048, C2337-21-000062 and C2337-22-000066 are gratefully acknowledged. Financial support was also provided from the Slovenian Research and Innovation Agency by P1-0143 and the IAEA project “Authenticity of High-Quality Slovenian Food Products Using Advanced Analytical Techniques” (Contract No. 23362). 
+
+Certain equipment, instruments, software, or materials, commercial or non-commercial, are identified in this paper to specify the experimental procedure adequately. Such identification is not intended to imply recommendation or endorsement of any product or service by NIST, nor is it intended to imply that the materials or equipment identified are necessarily the best available for the purpose. Contribution of the National Institute of Standards and Technology, not subject to US Copyright.
